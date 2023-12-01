@@ -1,4 +1,4 @@
-# MrNewsMan
+# MrNewsMan-master
 
 
 * Android App for displaying News written in Kotlin-Native <br>
