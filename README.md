@@ -58,6 +58,6 @@ Note: To run the app you have to add NewsAPI.org key. This API has limited acces
 <img src="https://user-images.githubusercontent.com/50077510/127982481-27d45ba8-243e-4c25-aff7-12a881812460.gif" width="200" height="400">
 
 # manual
-* https://drive.google.com/file/d/1LmII1N6WM367LjsMdTVeC01vS-kyqWyA/view?usp=sharing
+* https://drive.google.com/file/d/1o8LqIvm41ZC6x3IFe5NBi9x5MLJLXdDh/view?usp=sharing
 
 </p>
